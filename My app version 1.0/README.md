@@ -1,4 +1,4 @@
-# navigation_bar_example1
+# Simple android and IOS Friendly app
 
 A new Flutter project.
 
