@@ -1,6 +1,7 @@
 # Simple android and IOS Friendly app
 
 ![](Image/firsttab.jpg)
+![](Image/thirdtab.jpg)
 
 ## Getting Started
 
