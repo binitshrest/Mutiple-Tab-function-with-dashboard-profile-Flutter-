@@ -1,4 +1,5 @@
 # Simple android and IOS Friendly app
+Please Do cheack out my Image directory for short and sweet photos of these project.
 
 ![](Image/firsttab.jpg)
 ![](Image/thirdtab.jpg)
