@@ -1,6 +1,6 @@
 # Simple android and IOS Friendly app
 
-A new Flutter project.
+
 
 ## Getting Started
 
