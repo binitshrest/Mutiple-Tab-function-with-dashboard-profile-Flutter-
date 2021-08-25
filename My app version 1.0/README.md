@@ -2,6 +2,7 @@
 
 ![](Image/firsttab.jpg)
 ![](Image/thirdtab.jpg)
+![](Images/dashboard.jpg)
 
 ## Getting Started
 
